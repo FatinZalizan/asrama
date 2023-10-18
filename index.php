@@ -101,7 +101,7 @@ return true;
 							</div>
 						</div>
 						<div class="text-center text-light" style="color:black;">
-							<a href="forgot-password.php" style="color:black;">Forgot password?</a>
+							<a href="forgot-password.php" style="color:black;">Forgot password 1?</a>
 						</div>
 					</div>
 				</div>
