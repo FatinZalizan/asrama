@@ -92,7 +92,7 @@ return true;
 								<form action="" class="mt" method="post">
 									<label for="" class="text-uppercase text-sm">Email / No Pendaftaran</label>
 									<input type="text" placeholder="Email / Registration Number" name="emailreg" class="form-control mb" required="true">
-									<label for="" class="text-uppercase text-sm">Password</label>
+									<label for="" class="text-uppercase text-sm">Password untuk pengguna</label>
 									<input type="password" placeholder="Password" name="password" class="form-control mb" required="true">
 									
 
