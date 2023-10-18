@@ -82,7 +82,7 @@ return true;
 				<div class="row">
 					<div class="col-md-12">
 					
-						<h2 class="page-title">Log Masuk Pengguna </h2>
+						<h2 class="page-title">Log Masuk Pengguna fahmii enterprise</h2>
 
 						<div class="row">
 					<div class="col-md-6 col-md-offset-3">
